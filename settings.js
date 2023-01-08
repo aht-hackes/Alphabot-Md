@@ -31,7 +31,7 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Scorpion V2" 
+global.botname = "Scorpion V2.0" 
 global.ownername = "ᴹᴿ᭄ Mr A-H-T ×፝֟͜×" 
 global.myweb = "https://www.facebook.com/ahthackes/" 
 global.youtube = "https://www.youtube.com/@ahthackes8867"
