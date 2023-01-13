@@ -7,13 +7,13 @@ const {
 } = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
-global.APIs = {
+global.APIs = {XwgtTAQg
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.zeeoneofc.my.id': 'XwgtTAQg', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -39,10 +39,10 @@ global.myweb2 = "https://www.facebook.com/aht.gamerz"
 global.email = "ahtshamj907@gmail.com" 
 global.region = "Pakistan" 
 global.timezone = 'Pakistan Standard Time GMT+05:00' 
-global.premium = ['+923255595274'] 
+global.premium = ['+923137049803'] 
 global.owner = ["+923255595274", "+923137049803"] 
 global.ownernomer = "+923137049803"
-global.ownernomerr = "+923255595274"
+global.ownernomerr = "+923137049803"
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
