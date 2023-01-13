@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
-global.APIs = {XwgtTAQg
+global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
